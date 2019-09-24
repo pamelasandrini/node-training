@@ -1,6 +1,6 @@
 # node training
 
-##Create a new project
+## Create a new project
 
 first create a server.js file and define the http module and the port
 
@@ -11,7 +11,7 @@ then execute **npm install express** command
 
 change the server.js to use express module instead of http.
 
-##Execute the project
+## Execute the project
 
 first execute **npm install** (download the dependencies)
 
