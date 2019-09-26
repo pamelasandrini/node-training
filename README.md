@@ -1,6 +1,6 @@
 # node training
 
-## Create a new project
+## Steps to create a new project
 
 first create a server.js file and define the http module and the port
 
